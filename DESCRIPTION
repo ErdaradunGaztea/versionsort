@@ -1,7 +1,7 @@
 Package: versionsort
 Type: Package
 Title: Sort and Order Version Codes
-Version: 1.1.0
+Version: 1.1.0.9000
 Date: 2022-03-23
 Authors@R: c(person("Laura", "Bakala",
              email = "erdaradun.gaztea@gmail.com",
